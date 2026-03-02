@@ -47,7 +47,6 @@ tools      = ["Jupyter", "Google Colab"]
 
 ## let's talk
 
-📧 varshitht7@gmail.com  
-📱 9550429419  
-📍 Guntur, Andhra Pradesh  
-🔗 [LinkedIn](https://linkedin.com)
+📧 varshitht87@gmail.com  
+📍 Dublin, Ireland  
+
