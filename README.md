@@ -119,7 +119,6 @@ End-to-end pipeline predicting whether a video goes viral. A GCP VM running sche
   <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Administrator%20(AZ--104)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-104">
 </p>
 
-Plus Python and C training from IIT Bombay's Spoken Tutorial project, back when I was starting out.
 
 ---
 
