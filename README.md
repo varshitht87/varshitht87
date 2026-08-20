@@ -123,9 +123,6 @@ Plus Python and C training from IIT Bombay's Spoken Tutorial project, back when 
 
 ---
 
-the numbers
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=varshitht87&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshitht87&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=varshitht87&theme=tokyonight&hide_border=true" alt="Streak"> </p>
----
 
 ## right now
 
