@@ -130,5 +130,5 @@ Finishing the MSc (Jan 2027) and looking for graduate roles in Dublin — data s
 
 <p align="center">
   <a href="mailto:varshitht87@gmail.com"><img src="https://img.shields.io/badge/varshitht87@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/sai-krishna-varshith"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
